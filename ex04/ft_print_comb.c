@@ -6,9 +6,10 @@
 /*   By: ntmaduna <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/09 12:28:03 by ntmaduna          #+#    #+#             */
-/*   Updated: 2020/07/10 09:25:23 by ntmaduna         ###   ########.fr       */
+/*   Updated: 2020/07/10 15:26:44 by ntmaduna         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+void	ft_putchar(char c);
 
 void	ft_print_comb(void)
 {
