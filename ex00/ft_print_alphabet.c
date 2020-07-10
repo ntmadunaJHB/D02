@@ -6,9 +6,11 @@
 /*   By: ntmaduna <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/09 10:36:35 by ntmaduna          #+#    #+#             */
-/*   Updated: 2020/07/09 10:39:05 by ntmaduna         ###   ########.fr       */
+/*   Updated: 2020/07/10 15:02:56 by ntmaduna         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+void	ft_putchar(char c);
 
 void ft_print_alphabet(void)
 
