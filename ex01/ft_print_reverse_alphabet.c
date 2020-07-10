@@ -6,11 +6,11 @@
 /*   By: ntmaduna <marvin@42.fr>                    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2020/07/09 10:40:08 by ntmaduna          #+#    #+#             */
-/*   Updated: 2020/07/09 10:44:08 by ntmaduna         ###   ########.fr       */
+/*   Updated: 2020/07/10 15:20:40 by ntmaduna         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <unistd.h>
+ft_putchar(chhar c);
 
 void	ft_print_reverse_alphabet(void)
 {
